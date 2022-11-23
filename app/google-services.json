@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "953665120392",
+    "firebase_url": "https://busbookingproject-9ac19-default-rtdb.firebaseio.com",
+    "project_id": "busbookingproject-9ac19",
+    "storage_bucket": "busbookingproject-9ac19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953665120392:android:75d7f1a2b50880e636973d",
+        "android_client_info": {
+          "package_name": "com.example.conductorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953665120392-pkgubi2io77o85ssmi2blesfu9ph6p9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfkyncxC-DagRIL0ZUqgSGtubm41P2gUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953665120392-pkgubi2io77o85ssmi2blesfu9ph6p9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
